@@ -8,7 +8,7 @@ title: AS Authenticator Vault
 
 Two-factor codes, encrypted on your device and nowhere else. One native app for **iPhone, iPad and Mac**, by Ayala Solutions.
 
-[Privacy policy](privacy) · [Support](support) · [Project page on GitHub](https://github.com/hov172/as-authenticator-vault) · [Browser extension](https://github.com/hov172/AS-Authenticator-Browser-Extensions)
+[Privacy policy](privacy) · [Support](support) · [Project page on GitHub](https://github.com/hov172/as-authenticator-vault) · [Browser extension guide](https://github.com/hov172/AS-Authenticator-Browser-Extensions)
 
 <p align="center">
 <img src="images/iphone-accounts.png" width="200" alt="Accounts on iPhone">&nbsp;

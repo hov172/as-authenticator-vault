@@ -9,7 +9,7 @@ Two-factor codes, encrypted on your device and nowhere else. One native app for 
 - Optional sync between your devices through your own iCloud account, ciphertext only
 - No account, no server, no analytics, no tracking
 
-[Privacy policy](https://hov172.github.io/as-authenticator-vault/privacy) · [Support](https://hov172.github.io/as-authenticator-vault/support) · [Browser extension](https://github.com/hov172/AS-Authenticator-Browser-Extensions) that opens the same vault file
+[Privacy policy](https://hov172.github.io/as-authenticator-vault/privacy) · [Support](https://hov172.github.io/as-authenticator-vault/support) · [Browser extension](https://github.com/hov172/AS-Authenticator-Browser-Extensions) (user guide and vault format) that opens the same vault file
 
 > Version 1.2 is in App Review for both platforms. The App Store link will be `https://apps.apple.com/app/id6821787531` once it is live.
 
@@ -71,7 +71,7 @@ Nothing, unless you turn on one of two optional features in Settings: a once-an-
 
 ## Source
 
-The app's source is private. The browser extension that shares its vault format is open source at [hov172/AS-Authenticator-Browser-Extensions](https://github.com/hov172/AS-Authenticator-Browser-Extensions). Bug reports and questions about the app are welcome in [this repository's issues](https://github.com/hov172/as-authenticator-vault/issues) or by email at ayala.solutions@gmail.com. Never send a vault file, a master password, a recovery code or a QR code.
+Neither the app nor the browser extension publishes its source code. The extension's public repository, [hov172/AS-Authenticator-Browser-Extensions](https://github.com/hov172/AS-Authenticator-Browser-Extensions), holds its user guide, vault format, changelog and privacy and security policies, not the code. Bug reports and questions about the app are welcome in [this repository's issues](https://github.com/hov172/as-authenticator-vault/issues) or by email at ayala.solutions@gmail.com. Never send a vault file, a master password, a recovery code or a QR code.
 
 ## Release notes
 

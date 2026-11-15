@@ -9,7 +9,7 @@ AS Authenticator Vault is the native two-factor code app for iPhone, iPad and Ma
 ## Get help
 
 - Email: [ayala.solutions@gmail.com](mailto:ayala.solutions@gmail.com)
-- Or [open an issue](https://github.com/hov172/AS-Authenticator-Browser-Extensions/issues) on GitHub.
+- Or [open an issue](https://github.com/hov172/as-authenticator-vault/issues) on GitHub.
 
 Please say which device and version you use (Settings shows the version) and what you expected to happen. Never send a vault file, a master password, a recovery code or a QR code; nobody needs them to help you.
 

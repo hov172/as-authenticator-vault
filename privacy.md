@@ -4,7 +4,7 @@ title: Privacy policy
 
 # AS Authenticator privacy policy
 
-Effective 3 October 2026
+Effective 14 November 2026
 
 AS Authenticator, by Ayala Solutions, generates two-factor authentication codes on your Mac, iPhone and iPad.
 
@@ -21,13 +21,17 @@ Nothing, unless you turn on one of two optional features in Settings, each descr
 
 The app has no account system, no analytics, no advertising, no crash reporting and no tracking.
 
+## Syncing between your devices (optional)
+
+Off by default. If you turn on **Sync between devices** in Settings, the encrypted vault is copied through your own iCloud account to your other devices running the app, by the method you choose: iCloud Drive, iCloud Keychain or iCloud (CloudKit). What is stored in iCloud is the same AES-256-GCM-encrypted vault, plus a revision number, a timestamp and a device tag such as "iPhone-3f9a2c1b" (not your device name). Your master password never leaves the device, so Apple holds only ciphertext. iCloud Keychain data is end-to-end encrypted by Apple; iCloud Drive and CloudKit data is end-to-end encrypted only when Advanced Data Protection is on for your Apple Account, and otherwise the vault's own encryption is what protects your secrets. Sync is not available for a vault without a master password. Ayala Solutions never receives any of it.
+
 ## What we receive
 
 Nothing. Ayala Solutions runs no server for this app and cannot see your vault, your secrets or your usage.
 
 ## Deleting your data
 
-Settings > Delete everything removes the vault, backups, caches and Keychain items from the device. Deleting the app removes everything except the Keychain items, which Delete everything clears first.
+Settings > Delete everything removes the vault, backups, caches and Keychain items from the device. Deleting the app removes everything except the Keychain items, which Delete everything clears first. Settings > Remove synced copies from iCloud turns sync off and deletes the vault copy from iCloud Drive, iCloud Keychain and CloudKit.
 
 ## Children
 

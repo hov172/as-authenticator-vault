@@ -11,7 +11,7 @@ Two-factor codes, encrypted on your device and nowhere else. One native app for 
 
 [Privacy policy](https://hov172.github.io/as-authenticator-vault/privacy) · [Support](https://hov172.github.io/as-authenticator-vault/support) · [Browser extension](https://github.com/hov172/AS-Authenticator-Browser-Extensions) (user guide and vault format) that opens the same vault file
 
-> Version 1.2 is in App Review for both platforms. The App Store link will be `https://apps.apple.com/app/id6821787531` once it is live.
+> **[Download on the App Store](https://apps.apple.com/app/id6821787531)** for iPhone and iPad. The Mac version and the 1.2.1 update are in App Review.
 
 <p align="center">
 <img src="images/iphone-accounts.png" width="220" alt="Accounts on iPhone">&nbsp;
@@ -74,6 +74,8 @@ Nothing, unless you turn on one of two optional features in Settings: a once-an-
 Neither the app nor the browser extension publishes its source code. The extension's public repository, [hov172/AS-Authenticator-Browser-Extensions](https://github.com/hov172/AS-Authenticator-Browser-Extensions), holds its user guide, vault format, changelog and privacy and security policies, not the code. Bug reports and questions about the app are welcome in [this repository's issues](https://github.com/hov172/as-authenticator-vault/issues) or by email at ayala.solutions@gmail.com. Never send a vault file, a master password, a recovery code or a QR code.
 
 ## Release notes
+
+**1.2.1** (in review): Face ID and Touch ID unlock stays on after a failed or interrupted attempt. Previously a single missed match turned biometric unlock off until it was re-enabled in Settings.
 
 **1.2** (first App Store release): everything above. Available worldwide except France for now, pending an encryption declaration there.
 

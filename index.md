@@ -39,6 +39,6 @@ Two-factor codes, encrypted on your device and nowhere else. One native app for 
 
 No account. No server. No analytics. The [privacy policy](privacy) is short because there is little to say.
 
-Version 1.2 is in App Review for both platforms; the App Store link will be `https://apps.apple.com/app/id6821787531` once it is live.
+**[Download on the App Store](https://apps.apple.com/app/id6821787531)** for iPhone and iPad. The Mac version and the 1.2.1 update are in App Review.
 
 © 2026 Ayala Solutions
